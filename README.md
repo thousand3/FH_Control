@@ -1,2 +1,2 @@
 # FH_Control
-.Net Control for FH Vision Controller
+.Net Control for OMRON FH Vision Controller
